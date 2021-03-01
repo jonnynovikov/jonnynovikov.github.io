@@ -1,0 +1,19 @@
+h2, h3, h4 {
+    margin-bottom: 0.5rem;
+}
+
+body, html {
+    height: auto;
+}
+
+body {
+    padding: 30px;
+}
+
+.logo-main {
+    width: 70%;
+    max-width: 500px;
+    max-height: 170px;
+    display: block;
+    margin: 0 auto;
+}
